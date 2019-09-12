@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 public class Date{
   int day;
   int month;
